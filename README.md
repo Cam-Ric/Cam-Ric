@@ -12,7 +12,7 @@ Hardening Linux servers and building practical projects with Bash scripting, Doc
 * **Operating Systems:** Linux (Debian, Ubuntu)
 * **Scripting & Automation:** Bash, Git
 * **Containers & Orchestration:** Docker, Kubernetes
-* * **CLI Productivity:** Zsh, Tmux, Fzf, Eza, Zoxide, Fd, Bat, Ripgrep
+* **CLI Productivity:** Zsh, Tmux, Fzf, Eza, Zoxide, Fd, Bat, Ripgrep
 * **System Monitoring & Utilities:** Btop, Fastfetch, Ncdu, Tldr *(more in my [dotfiles](https://github.com))*
 
 ---
