@@ -1,8 +1,9 @@
 ### Hi there, I'm Ricardo
 
-SysAdmin student (ASIR) based in Spain 🇪🇸 | Aspiring **DevOps & Cloud Engineer** ☁️
+SysAdmin student (ASIR) based in Valencia, Spain | Aspiring **DevOps & Cloud Engineer** 
 
 I'm passionate about Linux administration, infrastructure automation, containerization, and system security. Currently building hands-on labs to bridge the gap between traditional systems administration and modern DevOps workflows.
+
 
 ---
 
