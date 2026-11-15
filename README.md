@@ -1,8 +1,8 @@
 ### Hi there, I'm Ricardo
 
-SysAdmin student (ASIR) based in Valencia, Spain | Aspiring **DevOps & Cloud Engineer** 
+SysAdmin Student (ASIR) | Valencia, Spain 🇪🇸 • Focusing on DevOps & Cloud
 
-I'm passionate about Linux administration, infrastructure automation, containerization, and system security. Currently building hands-on labs to bridge the gap between traditional systems administration and modern DevOps workflows.
+Hardening Linux servers and building practical projects with Bash scripting, Docker, and Kubernetes. Documenting my transition from traditional sysadmin fundamentals to modern cloud infrastructure through hands-on labs
 
 
 ---
@@ -12,7 +12,8 @@ I'm passionate about Linux administration, infrastructure automation, containeri
 * **Operating Systems:** Linux (Debian, Ubuntu)
 * **Scripting & Automation:** Bash, Git
 * **Containers & Orchestration:** Docker, Kubernetes
-* **CLI Productivity:** Zsh, Tmux, Fzf, Eza, Zoxide
+* * **CLI Productivity:** Zsh, Tmux, Fzf, Eza, Zoxide, Fd, Bat, Ripgrep
+* **System Monitoring & Utilities:** Btop, Fastfetch, Ncdu, Tldr *(more in my [dotfiles](https://github.com))*
 
 ---
 
