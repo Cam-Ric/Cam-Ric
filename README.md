@@ -6,7 +6,7 @@ I'm passionate about Linux administration, infrastructure automation, containeri
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools 🛠️
 
 * **Operating Systems:** Linux (Debian, Ubuntu)
 * **Scripting & Automation:** Bash, Git
