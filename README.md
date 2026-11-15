@@ -18,7 +18,7 @@ I'm passionate about Linux administration, infrastructure automation, containeri
 
 ### 📌 Featured Projects
 
-* 🔐 **[linux-server-hardening](https://github.com):** Bilingual (EN/ES) Linux server security lab covering user management, ACLs, PAM password policies, auditing, and Bash automation.
+* 🔐 **[linux-server-hardening](https://github.com):** Linux server security lab covering user management, ACLs, PAM password policies, auditing, and Bash automation.
 * ⚙️ **[dotfiles](https://github.com):** Personal CLI productivity setup, Zsh aliases, and Tmux configurations *(coming soon)*.
 
 ---
