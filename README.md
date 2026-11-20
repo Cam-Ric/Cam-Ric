@@ -9,11 +9,11 @@ Hardening Linux servers and building practical projects with Bash scripting, Doc
 
 ###  Tech Stack & Tools 🛠️
 
-* **Operating Systems:** Linux (Debian, Ubuntu)
-* **Scripting & Automation:** Bash, Git
+* **Operating Systems:** Linux (Debian, Fedora, OpenSUSE)
+* **Scripting & Automation:** Bash, Git, Python
 * **Containers & Orchestration:** Docker, Kubernetes
 * **CLI Productivity:** Zsh, Tmux, Fzf, Eza, Zoxide, Fd, Bat, Ripgrep
-* **System Monitoring & Utilities:** Btop, Fastfetch, Ncdu, Tldr *(more in my [dotfiles](https://github.com))*
+* **System Monitoring & Utilities:** Btop, Dust, Tealdeer, K9s, Lazydocker, Trippy *(more in [dotfiles](https://github.com))*
 
 ---
 
